@@ -1,0 +1,17 @@
+﻿.env
+.env.*
+.demo-backup/
+**/*.log
+*.log
+*.pid
+expo-go.log
+expo-go.err.log
+expo-go.pid
+.expo/
+dist/
+.vscode/
+android/.gradle/
+android/app/build/
+ios/
+web-build/
+.DS_Store
